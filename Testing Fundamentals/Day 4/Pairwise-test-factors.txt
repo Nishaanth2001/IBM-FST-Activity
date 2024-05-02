@@ -1,0 +1,9 @@
+Dining Option: Dine In, Delivery
+Location: Current Location, Specific Address
+Cuisine Preference: Italian, Indian, Chinese, Mexican, Japanese, Thai
+Dietary Preference: Vegetarian, Vegan, Halal, Serves alcohol
+Restaurant Rating: 1 Star, 2 Stars, 3 Stars, 4 Stars, 5 Stars
+Payment Method: Credit Card, Debit Card, UPI, COD
+Special Offers: Discounts, Cashback, Free Delivery
+Outdoor seating: Yes, No
+if [Dining Option] = "Dine In" then [Outdoor seating] = "Yes" or [Outdoor seating] = "No";

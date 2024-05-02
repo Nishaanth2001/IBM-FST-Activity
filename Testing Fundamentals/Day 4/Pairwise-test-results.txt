@@ -1,0 +1,32 @@
+Dining Option	Location	Cuisine Preference	Dietary Preference	Restaurant Rating	Payment Method	Special Offers	Outdoor seating
+Delivery	Current Location	Japanese	Vegetarian	3 Stars	COD	Discounts	Yes
+Dine In	Specific Address	Thai	Halal	5 Stars	UPI	Free Delivery	No
+Delivery	Specific Address	Chinese	Serves alcohol	4 Stars	Debit Card	Cashback	Yes
+Dine In	Current Location	Japanese	Vegan	2 Stars	Credit Card	Cashback	No
+Delivery	Current Location	Mexican	Serves alcohol	2 Stars	UPI	Free Delivery	Yes
+Dine In	Current Location	Japanese	Halal	4 Stars	Debit Card	Discounts	No
+Delivery	Specific Address	Chinese	Vegan	5 Stars	Credit Card	Discounts	Yes
+Dine In	Specific Address	Italian	Serves alcohol	3 Stars	COD	Free Delivery	No
+Dine In	Specific Address	Japanese	Vegetarian	5 Stars	Debit Card	Free Delivery	No
+Dine In	Specific Address	Indian	Halal	4 Stars	Credit Card	Free Delivery	Yes
+Delivery	Current Location	Italian	Vegetarian	1 Star	UPI	Cashback	Yes
+Delivery	Specific Address	Chinese	Halal	1 Star	COD	Free Delivery	No
+Delivery	Specific Address	Italian	Vegan	2 Stars	Debit Card	Discounts	Yes
+Dine In	Current Location	Chinese	Vegetarian	2 Stars	COD	Cashback	Yes
+Delivery	Current Location	Indian	Serves alcohol	5 Stars	COD	Cashback	No
+Delivery	Current Location	Thai	Serves alcohol	2 Stars	Credit Card	Discounts	Yes
+Dine In	Current Location	Indian	Vegan	1 Star	UPI	Discounts	No
+Dine In	Specific Address	Mexican	Halal	1 Star	Credit Card	Cashback	No
+Dine In	Specific Address	Chinese	Vegan	3 Stars	UPI	Cashback	No
+Delivery	Current Location	Mexican	Vegan	3 Stars	Debit Card	Discounts	Yes
+Dine In	Current Location	Mexican	Vegan	5 Stars	COD	Free Delivery	Yes
+Dine In	Specific Address	Japanese	Serves alcohol	1 Star	UPI	Free Delivery	Yes
+Delivery	Specific Address	Thai	Vegetarian	3 Stars	Credit Card	Cashback	No
+Dine In	Current Location	Thai	Vegan	4 Stars	COD	Discounts	Yes
+Delivery	Current Location	Mexican	Vegetarian	4 Stars	UPI	Free Delivery	No
+Dine In	Current Location	Indian	Vegetarian	3 Stars	Debit Card	Cashback	Yes
+Delivery	Specific Address	Italian	Halal	5 Stars	Credit Card	Cashback	No
+Delivery	Specific Address	Thai	Vegan	1 Star	Debit Card	Free Delivery	Yes
+Delivery	Specific Address	Indian	Halal	3 Stars	UPI	Free Delivery	No
+Delivery	Specific Address	Italian	Halal	4 Stars	COD	Free Delivery	Yes
+Dine In	Current Location	Indian	Halal	2 Stars	Debit Card	Cashback	No
